@@ -26,11 +26,11 @@ Additional features, including the Meow Coins economy, customization shop, and w
 | City restoration mechanics | Implemented |
 | Mr. Meow mascot | Implemented |
 | Sound effects and animations | Implemented |
-| Meow Coins economy | Planned |
-| Customization shop | Planned |
+| Meow Coins economy | Implemented |
+| Customization shop | Implemented |
 | City decoration system | Planned |
-| Save Mr. Meow! mini-game | Planned |
-| Achievements and rewards | Planned |
+| Save Mr. Meow! mini-game | Implemented |
+| Achievements and rewards | Implemented |
 
 *Feature statuses should be updated as development progresses.*
 
